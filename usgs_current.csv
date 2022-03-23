@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T16:34:40.700Z,38.8014984,-122.7718353,1.64,0.35,md,9,92,0.009513,0.02,nc,nc73709336,2022-03-23T16:36:16.168Z,"3km NNW of The Geysers, CA",earthquake,0.47,0.74,,1,automatic,nc,nc
+2022-03-23T16:26:09.650Z,19.4370002746582,-155.287673950195,-0.349999994039536,2.05999994,md,9,253,,0.129999995,hv,hv72960077,2022-03-23T16:29:03.080Z,"5 km W of Volcano, Hawaii",earthquake,0.41,0.270000011,2.19000006,4,automatic,hv,hv
 2022-03-23T16:21:57.050Z,38.8003349,-122.8141632,3.04,0.63,md,22,66,0.0145,0.02,nc,nc73709326,2022-03-23T16:23:31.424Z,"6km WNW of The Geysers, CA",earthquake,0.26,0.5,0.27,4,automatic,nc,nc
-2022-03-23T16:21:23.220Z,38.7999992,-122.8133316,3.03,1.41,md,29,67,0.01415,0.02,nc,nc73709321,2022-03-23T16:23:01.110Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.38,0.03,6,automatic,nc,nc
-2022-03-23T16:09:05.440Z,38.8190002,-122.8046646,2.94,1.2,md,28,37,0.006092,0.02,nc,nc73709316,2022-03-23T16:18:10.686Z,"6km NW of The Geysers, CA",earthquake,0.21,0.45,0.1,5,automatic,nc,nc
+2022-03-23T16:21:23.220Z,38.7999992,-122.8133316,3.03,1.41,md,29,67,0.01415,0.02,nc,nc73709321,2022-03-23T16:31:10.762Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.38,0.03,6,automatic,nc,nc
+2022-03-23T16:09:05.440Z,38.8190002,-122.8046646,2.94,1.2,md,28,37,0.006092,0.02,nc,nc73709316,2022-03-23T16:29:27.751Z,"6km NW of The Geysers, CA",earthquake,0.21,0.45,0.1,5,automatic,nc,nc
 2022-03-23T16:07:35.070Z,19.4895000457764,-155.585830688477,-1.53999996185303,1.79,ml,9,114,,0.129999995,hv,hv72960062,2022-03-23T16:13:06.910Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.25,5.03,3,automatic,hv,hv
+2022-03-23T16:07:15.880Z,38.655,-112.241,7.98,2.35,ml,22,52,0.1527,0.21,uu,uu60486767,2022-03-23T16:29:00.630Z,"3 km NNW of Joseph, Utah",earthquake,0.45,1.23,0.244,15,reviewed,uu,uu
 2022-03-23T16:03:37.750Z,34.2666667,-119.7248333,1,1.98,ml,22,119,0.1739,0.2,ci,ci39975367,2022-03-23T16:07:31.206Z,"17km S of Santa Barbara, CA",earthquake,0.49,31.61,0.135,30,automatic,ci,ci
 2022-03-23T16:00:02.338Z,-34.0213,-177.737,10,4.8,mb,,83,4.747,0.73,us,us6000h6y1,2022-03-23T16:19:37.040Z,"south of the Kermadec Islands",earthquake,7.1,1.9,0.121,24,reviewed,us,us
 2022-03-23T15:50:42.810Z,34.8386667,-118.8798333,6.52,1.5,ml,26,49,0.03253,0.2,ci,ci39975351,2022-03-23T15:54:35.115Z,"1km WSW of Lebec, CA",earthquake,0.38,0.51,0.19,23,automatic,ci,ci
@@ -60,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T09:20:54.510Z,45.3868333,-111.0016667,4.69,1.25,ml,18,71,0.298,0.17,mb,mb80541284,2022-03-23T15:39:37.050Z,"16 km WNW of South Glastonbury, Montana",earthquake,0.38,2.91,0.195,5,reviewed,mb,mb
 2022-03-23T09:18:58.488Z,23.3099,121.5048,7.12,4.5,mb,,97,0.207,0.63,us,us6000h6wb,2022-03-23T12:34:54.040Z,"74 km S of Hualien City, Taiwan",earthquake,2.4,5.3,0.15,13,reviewed,us,us
 2022-03-23T09:13:13.100Z,19.1298332214355,-155.381164550781,31.3400001525879,1.99000001,md,42,186,,0.109999999,hv,hv72959812,2022-03-23T09:16:23.920Z,"13 km SE of Pāhala, Hawaii",earthquake,0.64,0.920000017,0.860000014,16,automatic,hv,hv
-2022-03-23T09:12:42.895Z,38.4937,-118.3445,0.3,0.9,ml,8,171.35,0.059,0.1057,nn,nn00835827,2022-03-23T09:16:52.383Z,"California-Nevada border region",earthquake,,0.2,0.31,5,automatic,nn,nn
+2022-03-23T09:12:44.153Z,38.4907,-118.3314,0,0.9,ml,13,95.52,0.055,0.1113,nn,nn00835827,2022-03-23T16:28:17.690Z,"22 km WNW of Mina, Nevada",earthquake,,0,0.23,3,reviewed,nn,nn
 2022-03-23T08:57:24.994Z,38.4941,-118.3286,0,2,ml,20,90.8,0.056,0.1694,nn,nn00835824,2022-03-23T16:18:57.141Z,"22 km WNW of Mina, Nevada",earthquake,,3.1,0.29,9,reviewed,nn,nn
 2022-03-23T08:50:08.770Z,19.234167098999,-155.431838989258,27.8400001525879,1.74000001,md,12,195,,0.0900000036,hv,hv72959797,2022-03-23T08:53:18.580Z,"6 km NE of Pāhala, Hawaii",earthquake,1,1.55999994,0.689999998,3,automatic,hv,hv
 2022-03-23T08:26:44.031Z,-23.5729,-66.8168,226.54,4.4,mb,,120,1.396,0.46,us,us6000h6w7,2022-03-23T08:48:16.040Z,"87 km NW of San Antonio de los Cobres, Argentina",earthquake,12,8.9,0.219,6,reviewed,us,us
@@ -249,7 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T17:06:55.316Z,22.0584,121.4803,25.77,5,mb,,75,0.841,0.73,us,us6000h6nj,2022-03-23T04:13:29.442Z,"76 km E of Hengchun, Taiwan",earthquake,5.6,4.6,0.047,145,reviewed,us,us
 2022-03-22T17:05:16.440Z,38.8055,-122.7928314,1.49,0.83,md,8,161,0.003131,0.02,nc,nc73708856,2022-03-22T17:21:18.061Z,"4km NW of The Geysers, CA",earthquake,0.49,0.9,,1,automatic,nc,nc
 2022-03-22T17:03:31.950Z,34.6441667,-117.3218333,-1.22,1.26,ml,14,84,0.08356,0.19,ci,ci39974479,2022-03-22T20:41:15.411Z,"10km NE of Adelanto, CA",quarry blast,0.48,31.61,0.167,27,reviewed,ci,ci
-2022-03-22T16:37:44.120Z,38.7953339,-122.7853317,-0.14,0.83,md,11,77,0.002952,0.04,nc,nc73708846,2022-03-22T16:39:21.784Z,"3km NW of The Geysers, CA",earthquake,0.28,0.6,0.45,2,automatic,nc,nc
-2022-03-22T16:35:40.080Z,38.8035,-122.7916667,1.35,2.68,md,83,26,0.005289,0.05,nc,nc73708841,2022-03-22T21:42:17.595Z,"4km NW of The Geysers, CA",earthquake,0.08,0.11,0.14,56,reviewed,nc,nc
-2022-03-22T16:35:08.020Z,10.7484,-43.3791,10,6.7,mww,,27,10.749,0.76,us,us6000h6ne,2022-03-22T19:33:14.913Z,"northern Mid-Atlantic Ridge",earthquake,9.5,1.8,0.055,32,reviewed,us,us
-2022-03-22T16:34:21.080Z,17.9826666666667,-66.8435,16.74,1.63,md,5,189,,0.03,pr,pr71341418,2022-03-22T17:35:30.510Z,"2 km WSW of Indios, Puerto Rico",earthquake,1.41,0.49,0.0538985119241073,5,reviewed,pr,pr
