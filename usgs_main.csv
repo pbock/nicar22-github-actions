@@ -671,3 +671,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T22:39:31.230Z,35.507,-118.393837,3.79,1.83,ml,37.0,66.0,0.1686,0.14,ci,ci39976111,2022-03-23T22:41:36.772Z,"13km SE of Bodfish, CA",earthquake,0.23,0.82,0.288,20.0,automatic,ci,ci
 2022-03-23T21:26:08.310Z,35.6825,-117.4406667,2.8,0.09,ml,6.0,178.0,0.09738,0.04,ci,ci39975863,2022-03-23T22:38:46.690Z,"10km SSW of Searles Valley, CA",earthquake,0.92,0.59,0.057,2.0,reviewed,ci,ci
 2022-03-23T20:55:39.350Z,36.5693333,-117.99,10.23,1.16,ml,8.0,179.0,0.1482,0.13,ci,ci39975807,2022-03-23T22:36:34.733Z,"8km ESE of Lone Pine, CA",earthquake,0.52,1.06,0.119,4.0,reviewed,ci,ci
+2022-03-23T22:20:37.500Z,17.8045,-66.8816666666667,7.48,2.82,md,26.0,237.0,,0.19,pr,pr71341638,2022-03-23T22:47:54.830Z,"18 km S of Guánica, Puerto Rico",earthquake,0.89,1.32,0.157250342617708,14.0,reviewed,pr,pr
