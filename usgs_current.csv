@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T12:22:27.590Z,35.5909996,-117.5339966,6.57,1.24,ml,16,90,0.05869,0.1,ci,ci39975159,2022-03-23T12:24:32.572Z,"13km ESE of Ridgecrest, CA",earthquake,0.34,0.87,0.185,2,automatic,ci,ci
+2022-03-23T12:02:54.194Z,19.3608,122.2937,10,5.1,mb,,92,3.621,0.71,us,us6000h6x6,2022-03-23T12:20:39.040Z,"95 km N of San Vicente, Philippines",earthquake,7.9,1.9,0.06,92,reviewed,us,us
+2022-03-23T11:57:30.040Z,-22.8997,172.4234,10,5.2,mb,,123,4.602,1.23,us,us6000h6x2,2022-03-23T12:14:54.040Z,"southeast of the Loyalty Islands",earthquake,9.2,1.9,0.115,25,reviewed,us,us
 2022-03-23T11:53:58.306Z,60.2062,-151.0961,63.9,1.9,ml,,,,0.46,ak,ak0223rsxplk,2022-03-23T11:59:25.236Z,"16 km E of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-23T11:50:07.640Z,19.1636657714844,-155.480499267578,35.2200012207031,1.88999999,md,36,106,,0.119999997,hv,hv72959897,2022-03-23T11:53:22.350Z,"4 km S of Pāhala, Hawaii",earthquake,0.51,0.879999995,1.08000004,8,automatic,hv,hv
 2022-03-23T11:46:12.600Z,35.6996667,-117.5215,6.7,0.69,ml,9,158,0.1228,0.16,ci,ci39975143,2022-03-23T11:49:46.407Z,"13km SW of Searles Valley, CA",earthquake,0.69,1.55,0.19,8,automatic,ci,ci
@@ -78,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T02:19:45.650Z,35.9151667,-117.7055,8.89,0.77,ml,16,62,0.05539,0.14,ci,ci39974991,2022-03-23T02:23:27.249Z,"18km E of Little Lake, CA",earthquake,0.37,0.67,0.16,10,automatic,ci,ci
 2022-03-23T02:18:15.130Z,17.8485,-66.863,6.58,1.54,md,4,254,,0.12,pr,pr71341518,2022-03-23T03:59:03.900Z,"14 km SSE of Guánica, Puerto Rico",earthquake,1.09,0.46,0.0877505116895372,4,reviewed,pr,pr
 2022-03-23T01:59:58.791Z,61.8781,-151.1067,64.1,1.9,ml,,,,0.67,ak,ak0223rn0nvy,2022-03-23T02:27:53.031Z,"19 km SE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-23T01:58:44.790Z,34.2956667,-118.4243333,4.17,2.6,ml,63,42,0.04748,0.25,ci,ci39974975,2022-03-23T11:11:39.353Z,"2km NE of San Fernando, CA",earthquake,0.24,0.8,0.195,27,automatic,ci,ci
+2022-03-23T01:58:44.790Z,34.2956667,-118.4243333,4.17,2.6,ml,63,42,0.04748,0.25,ci,ci39974975,2022-03-23T12:21:41.249Z,"2km NE of San Fernando, CA",earthquake,0.24,0.8,0.195,27,automatic,ci,ci
 2022-03-23T01:55:54.199Z,23.385,121.5934,10,4.5,mb,,98,0.272,0.77,us,us6000h6v1,2022-03-23T05:27:33.118Z,"65 km S of Hualien City, Taiwan",earthquake,2.5,1.5,0.135,16,reviewed,us,us
 2022-03-23T01:54:31.081Z,-14.1429,-14.2239,10,5.1,mb,,53,6.173,0.56,us,us6000h6v0,2022-03-23T02:16:03.040Z,"southern Mid-Atlantic Ridge",earthquake,8.6,1.8,0.058,98,reviewed,us,us
 2022-03-23T01:41:58.980Z,17.9681666666667,-66.9615,10.8,2.46,md,14,187,,0.19,pr,pr71341513,2022-03-23T03:20:54.280Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.49,0.72,0.170535164758914,8,reviewed,pr,pr
@@ -257,6 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T12:35:57.910Z,17.9866666666667,-66.8588333333333,12.47,1.98,md,5,169,,0.07,pr,pr71341363,2022-03-22T13:03:25.030Z,"3 km SSE of Palomas, Puerto Rico",earthquake,1.04,0.42,0.141660391725302,6,reviewed,pr,pr
 2022-03-22T12:35:34.080Z,38.833168,-122.8144989,2.42,0.85,md,12,61,0.01035,0.04,nc,nc73708766,2022-03-22T13:28:18.711Z,"8km NW of The Geysers, CA",earthquake,0.35,0.75,,1,automatic,nc,nc
 2022-03-22T12:28:54.890Z,38.1381,-117.9938,3.1,1.2,ml,13,140.22,0.027,0.0446,nn,nn00835755,2022-03-22T18:04:26.665Z,"29 km SSE of Mina, Nevada",earthquake,,2.1,0.28,4,reviewed,nn,nn
-2022-03-22T12:21:18.500Z,19.1558333333333,-155.477166666667,32.63,2.74,ml,53,135,,0.12,hv,hv72959042,2022-03-22T23:29:00.600Z,"5 km S of Pāhala, Hawaii",earthquake,0.43,0.62,0.171574557631072,27,reviewed,hv,hv
-2022-03-22T12:20:36.690Z,38.8180008,-122.7956696,2.38,0.99,md,21,53,0.01002,0.03,nc,nc73708761,2022-03-22T13:02:16.566Z,"6km NW of The Geysers, CA",earthquake,0.23,0.62,0.23,2,automatic,nc,nc
-2022-03-22T12:13:15.726Z,63.3399,-145.5496,19.5,1.2,ml,,,,1.11,ak,ak0223q5r4sq,2022-03-22T12:22:25.211Z,"28 km N of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
