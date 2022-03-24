@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-23T23:53:03.140Z,36.784832,-121.3203354,11.62,1.16,md,7,202,0.08003,0.03,nc,nc73709431,2022-03-24T00:01:10.724Z,"1km S of Tres Pinos, CA",earthquake,2.28,0.82,0.26,6,automatic,nc,nc
+2022-03-23T23:53:03.140Z,36.784832,-121.3203354,11.62,1.16,md,7,202,0.08003,0.03,nc,nc73709431,2022-03-24T00:09:20.763Z,"1km S of Tres Pinos, CA",earthquake,2.28,0.82,0.26,6,automatic,nc,nc
+2022-03-23T23:50:51.207Z,38.8894,141.7431,76.18,4.4,mb,,141,1.968,1.3,us,us7000gwqg,2022-03-24T00:11:51.040Z,"20 km S of Ōfunato, Japan",earthquake,8.3,7.3,0.095,32,reviewed,us,us
+2022-03-23T23:50:14.280Z,18.0105,-66.7405,14.52,2.13,md,7,181,,0.08,pr,pr71341663,2022-03-24T00:13:53.230Z,"3 km NW of Tallaboa, Puerto Rico",earthquake,0.55,1.14,0.145777625816589,4,reviewed,pr,pr
+2022-03-23T23:47:57.781Z,40.0685,-119.6875,14.7,0,ml,3,165.51,0.107,0.0156,nn,nn00835902,2022-03-24T00:15:44.893Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,5.3,0.02,2,reviewed,nn,nn
 2022-03-23T23:44:27.291Z,38.1375,-117.9954,2.9,1.1,ml,12,140.86,0.028,0.0728,nn,nn00835898,2022-03-23T23:57:12.135Z,"29 km SSE of Mina, Nevada",earthquake,,1.9,0.69,5,reviewed,nn,nn
 2022-03-23T23:37:45.730Z,34.2411667,-118.44,14.32,1.27,ml,20,63,0.05208,0.17,ci,ci39976191,2022-03-23T23:41:30.763Z,"2km NNE of Panorama City, CA",earthquake,0.42,0.68,0.228,33,automatic,ci,ci
 2022-03-23T23:37:03.217Z,64.934,-147.3426,1.4,1.6,ml,,,,0.39,ak,ak0223rzzd42,2022-03-23T23:40:46.425Z,"13 km ESE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -16,13 +19,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T22:20:37.500Z,17.8045,-66.8816666666667,7.48,2.82,md,26,237,,0.19,pr,pr71341638,2022-03-23T22:47:54.830Z,"18 km S of Guánica, Puerto Rico",earthquake,0.89,1.32,0.157250342617708,14,reviewed,pr,pr
 2022-03-23T22:20:27.270Z,38.8411674,-122.878334,2.6,1.09,md,15,139,0.004962,0.02,nc,nc73709421,2022-03-23T22:22:00.859Z,"13km ENE of Cloverdale, CA",earthquake,0.28,0.55,0.17,4,automatic,nc,nc
 2022-03-23T22:05:29.630Z,35.9921667,-117.2948333,3.16,1.13,ml,14,155,0.1014,0.1,ci,ci39975991,2022-03-23T23:16:54.710Z,"26km NNE of Trona, CA",earthquake,0.27,0.67,0.119,7,reviewed,ci,ci
-2022-03-23T21:57:00.438Z,-15.1542,167.3908,115.69,6,mww,,25,0.342,1.22,us,us7000gwpw,2022-03-24T00:01:12.124Z,"36 km ESE of Port-Olry, Vanuatu",earthquake,8.5,1,0.039,63,reviewed,us,us
+2022-03-23T21:57:00.438Z,-15.1542,167.3908,115.69,6,mww,,25,0.342,1.22,us,us7000gwpw,2022-03-24T00:13:18.226Z,"36 km ESE of Port-Olry, Vanuatu",earthquake,8.5,1,0.039,63,reviewed,us,us
 2022-03-23T21:48:34.620Z,33.2231667,-116.7373333,12.2,0.59,ml,23,56,0.07921,0.15,ci,ci39975927,2022-03-23T23:13:18.657Z,"3km SE of Lake Henshaw, CA",earthquake,0.23,0.62,0.135,8,reviewed,ci,ci
 2022-03-23T21:33:11.240Z,33.4345,-116.62,6.09,1.1,ml,46,39,0.06186,0.13,ci,ci39975895,2022-03-23T23:07:38.360Z,"14km SSE of Anza, CA",earthquake,0.13,0.32,0.139,24,reviewed,ci,ci
 2022-03-23T21:26:08.310Z,35.6825,-117.4406667,2.8,0.09,ml,6,178,0.09738,0.04,ci,ci39975863,2022-03-23T22:38:46.690Z,"10km SSW of Searles Valley, CA",earthquake,0.92,0.59,0.057,2,reviewed,ci,ci
 2022-03-23T21:19:34.585Z,63.2434,-151.0709,16,1,ml,,,,0.5,ak,ak0223ryoph2,2022-03-23T21:21:57.039Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-23T21:13:49.220Z,32.1865,-116.4963333,18.76,1.93,ml,20,201,0.1898,0.15,ci,ci39975831,2022-03-23T21:43:29.354Z,"36km NNE of El Sauzal, B.C., MX",earthquake,0.43,0.54,0.152,20,reviewed,ci,ci
-2022-03-23T21:11:28.280Z,40.4088333,-122.1858333,26.16,1.84,md,16,61,0.1069,0.15,nc,nc73709411,2022-03-23T22:29:24.224Z,"10km ESE of Anderson, CA",earthquake,0.69,0.85,0.203,17,reviewed,nc,nc
+2022-03-23T21:11:28.280Z,40.4088333,-122.1858333,26.16,1.84,md,16,61,0.1069,0.15,nc,nc73709411,2022-03-24T00:15:18.797Z,"10km ESE of Anderson, CA",earthquake,0.69,0.85,0.203,17,reviewed,nc,nc
 2022-03-23T21:06:09.095Z,-8.5746,-80.2055,10,4.3,mb,,153,4.738,1.19,us,us7000gwpk,2022-03-23T21:23:37.040Z,"126 km WSW of Santiago de Cao, Peru",earthquake,7.1,2,0.16,11,reviewed,us,us
 2022-03-23T20:55:39.350Z,36.5693333,-117.99,10.23,1.16,ml,8,179,0.1482,0.13,ci,ci39975807,2022-03-23T22:36:34.733Z,"8km ESE of Lone Pine, CA",earthquake,0.52,1.06,0.119,4,reviewed,ci,ci
 2022-03-23T20:48:20.370Z,33.671,-116.77,10.98,0.92,ml,24,94,0.06142,0.11,ci,ci39975799,2022-03-23T21:51:52.449Z,"9km SSW of Idyllwild, CA",earthquake,0.24,0.35,0.1,14,reviewed,ci,ci
