@@ -869,3 +869,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T14:46:18.770Z,17.942,-66.9455,11.99,2.78,md,17.0,190.0,,0.26,pr,pr71341828,2022-03-24T15:03:24.580Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.74,0.51,0.16787011519508,13.0,reviewed,pr,pr
 2022-03-24T08:50:28.920Z,38.932,-111.4413333,5.84,1.52,md,6.0,110.0,0.1524,0.14,uu,uu60486857,2022-03-24T15:05:52.810Z,"16 km W of Emery, Utah",earthquake,0.76,31.61,0.239,5.0,reviewed,uu,uu
 2022-03-24T08:35:20.710Z,38.918,-111.4411667,2.59,1.52,md,5.0,138.0,0.1385,0.09,uu,uu60486852,2022-03-24T15:02:45.490Z,"16 km W of Emery, Utah",earthquake,0.84,8.14,0.216,5.0,reviewed,uu,uu
+2022-03-24T11:42:07.860Z,37.4196667,-113.8558333,0.26,1.6,ml,8.0,167.0,0.04207,0.13,uu,uu60486867,2022-03-24T15:13:06.200Z,"17 km WNW of Veyo, Utah",earthquake,0.75,8.9,0.152,6.0,reviewed,uu,uu
