@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-24T06:14:24.552Z,36.6093,-116.6753,16,0.6,ml,8,213.35,0.267,0.1103,nn,nn00835918,2022-03-24T06:17:25.878Z,"23 km NE of Furnace Creek, California",earthquake,,3.6,1.05,5,automatic,nn,nn
 2022-03-24T06:13:21.573Z,58.101,-151.6109,29.9,1.9,ml,,,,0.23,ak,ak0223td98l9,2022-03-24T06:15:54.341Z,"56 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-24T06:09:37.196Z,62.9337,-151.2891,106.4,2.1,ml,,,,0.53,ak,ak0223td8ewg,2022-03-24T06:12:53.525Z,"55 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-24T06:09:37.179Z,62.9334,-151.2954,106.4,2.1,ml,,,,0.52,ak,ak0223td8ewg,2022-03-24T06:24:17.180Z,"55 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-24T06:04:09.600Z,35.6726685,-117.4783325,6.04,1.41,ml,26,95,0.08698,0.14,ci,ci39976415,2022-03-24T06:07:43.047Z,"12km SSW of Searles Valley, CA",earthquake,0.31,1.41,0.177,6,automatic,ci,ci
 2022-03-24T06:02:40.640Z,19.0287,-65.4161,35,2.7,ml,,279,0.728,0.21,us,us7000gws9,2022-03-24T06:16:19.040Z,"79 km NNE of Luquillo, Puerto Rico",earthquake,6.9,2,0.057,40,reviewed,us,us
 2022-03-24T06:00:13.855Z,38.1599,-117.8816,11.7,1.2,ml,9,132.23,0.065,0.0526,nn,nn00835917,2022-03-24T06:04:25.750Z,"32 km SE of Mina, Nevada",earthquake,,0.9,0.47,5,automatic,nn,nn
@@ -177,6 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T12:43:20.529Z,39.4505,-119.1165,12.2,0.8,ml,7,230.17,0.333,0.1301,nn,nn00835866,2022-03-24T02:38:36.590Z,"10 km ENE of Silver Springs, Nevada",earthquake,,2.7,0.2,2,reviewed,nn,nn
 2022-03-23T12:36:01.720Z,44.2685,-115.1898333,10.6,1.8,ml,11,83,0.834,0.32,mb,mb80541264,2022-03-23T14:19:46.450Z,"20 km WNW of Stanley, Idaho",earthquake,0.7,2.05,0.148,10,reviewed,mb,mb
 2022-03-23T12:35:08.800Z,19.3626670837402,-155.423004150391,2.17000007629395,1.72000003,md,35,62,,0.159999996,hv,hv72959927,2022-03-23T12:38:18.920Z,"18 km NNE of Pāhala, Hawaii",earthquake,0.39,0.959999979,0.75,16,automatic,hv,hv
+2022-03-23T12:34:57.510Z,58.2548333333333,-154.934833333333,30.69,0.02,ml,6,163,,0.12,av,av91052613,2022-03-24T06:23:05.520Z,"81 km NNW of Karluk, Alaska",earthquake,1.21,0.96,0.194493339995068,6,reviewed,av,av
 2022-03-23T12:34:04.819Z,42.3155,-126.4907,10,2.8,ml,,273,1.88,0.45,us,us6000h6x7,2022-03-23T13:07:24.040Z,"170 km WSW of Port Orford, Oregon",earthquake,10.8,2,0.045,66,reviewed,us,us
 2022-03-23T12:32:57.030Z,40.1406667,-123.8196667,23.32,1.86,md,17,78,0.04182,0.11,nc,nc73709251,2022-03-23T19:42:15.004Z,"2km N of Redway, CA",earthquake,0.38,0.38,0.287,12,reviewed,nc,nc
 2022-03-23T12:29:05.660Z,55.4076666666667,-161.875833333333,10.3,0.64,ml,7,108,,0.08,av,av91052608,2022-03-24T06:15:44.560Z,"47 km NE of King Cove, Alaska",earthquake,0.34,0.61,0.166963366222928,5,reviewed,av,av
