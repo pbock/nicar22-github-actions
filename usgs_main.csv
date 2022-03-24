@@ -818,3 +818,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T12:05:02.740Z,33.5128333,-116.4501667,7.74,0.67,ml,18.0,70.0,0.023,0.16,ci,ci39976527,2022-03-24T12:08:42.797Z,"21km SW of La Quinta, CA",earthquake,0.35,0.68,0.13,13.0,automatic,ci,ci
 2022-03-24T12:03:39.570Z,38.8283348,-122.8136673,1.61,0.85,md,8.0,77.0,0.005675,0.02,nc,nc73709701,2022-03-24T12:05:14.028Z,"8km NW of The Geysers, CA",earthquake,0.35,1.02,,1.0,automatic,nc,nc
 2022-03-24T11:27:38.950Z,17.9911666666667,-66.8321666666667,15.44,2.59,md,20.0,175.0,,0.24,pr,pr71341793,2022-03-24T11:57:53.940Z,"1 km WSW of Indios, Puerto Rico",earthquake,0.65,0.68,0.0934361347249331,9.0,reviewed,pr,pr
+2022-03-24T11:54:01.140Z,18.5356,-69.2388,150.66,4.2,mb,,109.0,0.647,0.54,us,us7000gwvb,2022-03-24T12:14:56.040Z,"6 km W of Ramón Santana, Dominican Republic",earthquake,5.2,6.2,0.235,6.0,reviewed,us,us
