@@ -827,3 +827,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T12:21:55.000Z,38.8318329,-122.8098297,2.15,0.85,md,15.0,47.0,0.008428,0.02,nc,nc73709706,2022-03-24T12:23:29.182Z,"8km W of Cobb, CA",earthquake,0.31,0.59,,1.0,automatic,nc,nc
 2022-03-24T12:12:47.307Z,31.60149908,-104.5228095,6.671435547,3.9,ml,21.0,83.0,0.06979492353,0.2,tx,tx2022futk,2022-03-24T12:33:02.085Z,"65 km SSW of Whites City, New Mexico",earthquake,1.786089656,1.513898673,0.1,13.0,reviewed,tx,tx
 2022-03-24T10:10:36.250Z,36.4125,-96.90383333,5.03,0.69,ml,34.0,65.0,0.02339540902,0.2,ok,ok2022fupk,2022-03-24T12:32:11.807Z,"12 km NW of Pawnee, Oklahoma",earthquake,,0.5,0.24,12.0,reviewed,ok,ok
+2022-03-24T12:25:19.748Z,15.4477,-94.7041,35.0,4.6,mb,,141.0,2.606,0.58,us,us7000gwvj,2022-03-24T12:45:10.040Z,"87 km S of San Francisco del Mar Viejo, Mexico",earthquake,5.3,1.9,0.04,188.0,reviewed,us,us

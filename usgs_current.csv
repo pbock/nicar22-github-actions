@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-24T12:33:02.990Z,19.203332901001,-155.385162353516,32.4500007629395,2.38000011,md,41,163,,0.150000006,hv,hv72960797,2022-03-24T12:36:13.890Z,"9 km E of Pāhala, Hawaii",earthquake,0.51,0.730000019,0.180000007,24,automatic,hv,hv
+2022-03-24T12:33:02.990Z,19.203332901001,-155.385162353516,32.4500007629395,2.38,ml,41,163,,0.150000006,hv,hv72960797,2022-03-24T12:38:34.540Z,"9 km E of Pāhala, Hawaii",earthquake,0.51,0.730000019,2.64,8,automatic,hv,hv
 2022-03-24T12:25:38.860Z,33.5016667,-116.5081667,4.9,0.42,ml,14,95,0.05886,0.16,ci,ci39976543,2022-03-24T12:29:12.600Z,"16km ESE of Anza, CA",earthquake,0.36,0.91,0.121,7,automatic,ci,ci
 2022-03-24T12:25:35.326Z,40.1546,-119.6324,0,1.1,ml,10,184.54,0.078,0.2875,nn,nn00835923,2022-03-24T12:28:59.965Z,"22 km N of Sutcliffe, Nevada",earthquake,,3.9,0.4,6,automatic,nn,nn
+2022-03-24T12:25:19.748Z,15.4477,-94.7041,35,4.6,mb,,141,2.606,0.58,us,us7000gwvj,2022-03-24T12:45:10.040Z,"87 km S of San Francisco del Mar Viejo, Mexico",earthquake,5.3,1.9,0.04,188,reviewed,us,us
 2022-03-24T12:25:04.700Z,19.2416667938232,-155.378829956055,33.0200004577637,1.89999998,md,36,144,,0.129999995,hv,hv72960792,2022-03-24T12:28:07.840Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.57,0.860000014,1.35000002,15,automatic,hv,hv
-2022-03-24T12:23:36.810Z,38.8238335,-122.8096695,1.79,0.84,md,15,61,0.00054,0.01,nc,nc73709716,2022-03-24T12:25:14.180Z,"7km NW of The Geysers, CA",earthquake,0.27,0.62,,1,automatic,nc,nc
-2022-03-24T12:21:55.000Z,38.8318329,-122.8098297,2.15,0.85,md,15,47,0.008428,0.02,nc,nc73709706,2022-03-24T12:23:29.182Z,"8km W of Cobb, CA",earthquake,0.31,0.59,,1,automatic,nc,nc
-2022-03-24T12:12:47.307Z,31.60149908,-104.5228095,6.671435547,3.9,ml,21,83,0.06979492353,0.2,tx,tx2022futk,2022-03-24T12:33:02.085Z,"65 km SSW of Whites City, New Mexico",earthquake,1.786089656,1.513898673,0.1,13,reviewed,tx,tx
-2022-03-24T12:05:02.740Z,33.5128333,-116.4501667,7.74,0.67,ml,18,70,0.023,0.16,ci,ci39976527,2022-03-24T12:08:42.797Z,"21km SW of La Quinta, CA",earthquake,0.35,0.68,0.13,13,automatic,ci,ci
+2022-03-24T12:23:36.810Z,38.8238335,-122.8096695,1.79,0.84,md,15,61,0.00054,0.01,nc,nc73709716,2022-03-24T12:51:14.277Z,"7km NW of The Geysers, CA",earthquake,0.27,0.62,,1,automatic,nc,nc
+2022-03-24T12:21:55.000Z,38.8318329,-122.8098297,2.15,0.85,md,15,47,0.008428,0.02,nc,nc73709706,2022-03-24T12:39:15.213Z,"8km W of Cobb, CA",earthquake,0.31,0.59,,1,automatic,nc,nc
+2022-03-24T12:12:47.307Z,31.60149908,-104.5228095,6.671435547,3.9,ml,21,83,0.06979492353,0.2,tx,tx2022futk,2022-03-24T12:45:44.749Z,"65 km SSW of Whites City, New Mexico",earthquake,1.786089656,1.513898673,0.1,13,reviewed,tx,tx
+2022-03-24T12:05:02.740Z,33.5128333,-116.4501667,7.74,0.67,ml,18,70,0.023,0.16,ci,ci39976527,2022-03-24T12:40:59.850Z,"21km SW of La Quinta, CA",earthquake,0.35,0.68,0.13,13,reviewed,ci,ci
 2022-03-24T12:03:39.570Z,38.8283348,-122.8136673,1.61,0.85,md,8,77,0.005675,0.02,nc,nc73709701,2022-03-24T12:21:14.125Z,"8km NW of The Geysers, CA",earthquake,0.35,1.02,,1,automatic,nc,nc
 2022-03-24T11:54:01.140Z,18.5356,-69.2388,150.66,4.2,mb,,109,0.647,0.54,us,us7000gwvb,2022-03-24T12:14:56.040Z,"6 km W of Ramón Santana, Dominican Republic",earthquake,5.2,6.2,0.235,6,reviewed,us,us
 2022-03-24T11:46:32.990Z,38.8258324,-122.8115005,1.54,0.79,md,21,38,0.002677,0.03,nc,nc73709696,2022-03-24T11:48:09.334Z,"7km NW of The Geysers, CA",earthquake,0.2,0.5,0.25,3,automatic,nc,nc
@@ -22,8 +23,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T11:20:27.750Z,38.8258324,-122.8113327,1.16,0.72,md,16,70,0.002625,0.03,nc,nc73709656,2022-03-24T11:23:12.853Z,"7km NW of The Geysers, CA",earthquake,0.23,0.47,0.36,4,automatic,nc,nc
 2022-03-24T11:19:17.360Z,38.8284988,-122.8123322,1.64,0.85,md,13,58,0.005393,0.01,nc,nc73709641,2022-03-24T11:20:52.894Z,"8km NW of The Geysers, CA",earthquake,0.27,0.76,,1,automatic,nc,nc
 2022-03-24T11:18:43.180Z,38.8255005,-122.8108368,1.51,0.85,md,10,75,0.002185,0.02,nc,nc73709636,2022-03-24T11:20:17.956Z,"7km NW of The Geysers, CA",earthquake,0.33,0.73,,1,automatic,nc,nc
-2022-03-24T11:13:39.200Z,38.8260002,-122.8108368,1.18,1.86,md,11,114,0.03024,0.04,nc,nc73709631,2022-03-24T11:27:10.781Z,"7km NW of The Geysers, CA",earthquake,0.32,0.81,0.03,4,automatic,nc,nc
-2022-03-24T11:13:35.570Z,38.8269997,-122.8098297,1.47,2.32,md,16,58,0.003605,0.01,nc,nc73709626,2022-03-24T12:13:11.078Z,"7km NW of The Geysers, CA",earthquake,0.21,0.62,,1,automatic,nc,nc
+2022-03-24T11:13:39.200Z,38.8260002,-122.8108368,1.18,1.86,md,11,114,0.03024,0.04,nc,nc73709631,2022-03-24T12:39:11.213Z,"7km NW of The Geysers, CA",earthquake,0.32,0.81,0.03,4,automatic,nc,nc
+2022-03-24T11:13:35.570Z,38.8269997,-122.8098297,1.47,2.32,md,16,58,0.003605,0.01,nc,nc73709626,2022-03-24T12:39:16.212Z,"7km NW of The Geysers, CA",earthquake,0.21,0.62,,1,automatic,nc,nc
 2022-03-24T11:13:29.493Z,36.6372,-116.6354,2.9,1.9,ml,29,60.7,0.087,0.2346,nn,nn00835919,2022-03-24T11:18:32.636Z,"28 km NE of Furnace Creek, California",earthquake,,0.8,1,19,automatic,nn,nn
 2022-03-24T11:13:03.240Z,17.964,-66.961,7.78,2.09,md,5,194,,0.05,pr,pr71341783,2022-03-24T11:36:52.580Z,"5 km WSW of Fuig, Puerto Rico",earthquake,1.03,0.39,0.00953685113874636,3,reviewed,pr,pr
 2022-03-24T11:12:32.800Z,38.8273315,-122.8121643,1.77,0.8,md,22,41,0.004256,0.02,nc,nc73709621,2022-03-24T11:14:07.814Z,"7km NW of The Geysers, CA",earthquake,0.19,0.37,0.25,3,automatic,nc,nc
@@ -64,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T06:14:24.552Z,36.6093,-116.6753,16,0.6,ml,8,213.35,0.267,0.1103,nn,nn00835918,2022-03-24T06:17:25.878Z,"23 km NE of Furnace Creek, California",earthquake,,3.6,1.05,5,automatic,nn,nn
 2022-03-24T06:13:21.573Z,58.101,-151.6109,29.9,1.9,ml,,,,0.23,ak,ak0223td98l9,2022-03-24T06:15:54.341Z,"56 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-24T06:09:37.179Z,62.9334,-151.2954,106.4,2.1,ml,,,,0.52,ak,ak0223td8ewg,2022-03-24T06:24:17.180Z,"55 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-24T06:04:09.600Z,35.6726685,-117.4783325,6.04,1.41,ml,26,95,0.08698,0.14,ci,ci39976415,2022-03-24T06:07:43.047Z,"12km SSW of Searles Valley, CA",earthquake,0.31,1.41,0.177,6,automatic,ci,ci
+2022-03-24T06:04:09.600Z,35.6723333,-117.4793333,6.19,1.28,ml,20,109,0.08678,0.15,ci,ci39976415,2022-03-24T12:41:37.664Z,"13km SSW of Searles Valley, CA",earthquake,0.33,1.03,0.174,17,reviewed,ci,ci
 2022-03-24T06:02:40.520Z,19.0615,-65.31,49,3.59,md,18,294,0.7545,0.46,pr,pr2022083002,2022-03-24T07:25:09.166Z,"83 km N of Culebra, Puerto Rico",earthquake,4.25,9.65,0.07,11,reviewed,pr,pr
 2022-03-24T06:00:13.855Z,38.1599,-117.8816,11.7,1.2,ml,9,132.23,0.065,0.0526,nn,nn00835917,2022-03-24T06:04:25.750Z,"32 km SE of Mina, Nevada",earthquake,,0.9,0.47,5,automatic,nn,nn
 2022-03-24T05:59:44.150Z,61.6901,-146.5118,33.9,1.6,ml,,,,0.96,ak,ak0223tcxpmi,2022-03-24T06:03:29.767Z,"36 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -241,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T13:09:32.703Z,62.262,-150.6465,12.8,1.8,ml,,,,0.53,ak,ak0223rtv3bq,2022-03-23T13:12:04.896Z,"22 km WSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-23T13:07:23.720Z,33.6915,-116.7026667,15,0.67,ml,16,117,0.02183,0.07,ci,ci39975191,2022-03-23T17:17:27.635Z,"6km SSE of Idyllwild, CA",earthquake,0.26,0.23,0.12,6,reviewed,ci,ci
 2022-03-23T13:00:33.190Z,36.0303333,-117.8601667,2.13,0.59,ml,13,131,0.0333,0.1,ci,ci39975183,2022-03-23T14:51:57.980Z,"8km ESE of Coso Junction, CA",earthquake,0.15,0.16,0.095,5,reviewed,ci,ci
-2022-03-23T12:47:29.877Z,44.3086,-114.7437,10,2.4,ml,,59,0.511,0.9,us,us6000h6x9,2022-03-23T14:27:16.040Z,"18 km ENE of Stanley, Idaho",earthquake,1.9,2,0.053,46,reviewed,us,us
-2022-03-23T12:43:20.529Z,39.4505,-119.1165,12.2,0.8,ml,7,230.17,0.333,0.1301,nn,nn00835866,2022-03-24T02:38:36.590Z,"10 km ENE of Silver Springs, Nevada",earthquake,,2.7,0.2,2,reviewed,nn,nn
